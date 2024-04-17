@@ -1,6 +1,6 @@
 # konum
 
-can convert continuous numbers or just a number.
+can convert continuous numbers or simple natural number.
 
 
 ```python
